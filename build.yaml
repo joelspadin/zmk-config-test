@@ -12,3 +12,14 @@
 #     shield: reviung41
 #
 ---
+include:
+- board: bluemicro840
+  shield: reviung41
+- board: bt60
+- board: nice_nano
+  shield: reviung41
+- board: nice_nano_v2
+  shield: reviung41
+- board: s40nc
+- board: seeeduino_xiao_ble
+  shield: hummingbird
