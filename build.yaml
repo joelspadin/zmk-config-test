@@ -12,3 +12,6 @@
 #     shield: reviung41
 #
 ---
+include:
+  - shield: two_percent_milk
+    board: bluemicro840_v1
