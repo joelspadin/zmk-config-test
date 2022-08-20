@@ -21,3 +21,5 @@ include:
   - shield: corne_right
     board: nice_nano_v2
   - board: nice60
+  - shield: boardsource3x4
+    board: mikoto_520
