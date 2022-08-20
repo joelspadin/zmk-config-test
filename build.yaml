@@ -12,21 +12,3 @@
 #     shield: reviung41
 #
 ---
-include:
-  - shield: clog_left
-    board: nice_nano_v2
-  - shield: clog_right
-    board: nice_nano_v2
-  - shield: cradio_left
-    board: nice_nano_v2
-  - shield: cradio_right
-    board: nice_nano_v2
-  - shield: bfo9000_left
-    board: nice_nano_v2
-  - shield: bfo9000_right
-    board: nice_nano_v2
-  - board: bdn9_rev2
-  - shield: bfo9000_left
-    board: nice_nano_v2
-  - shield: bfo9000_right
-    board: nice_nano_v2
