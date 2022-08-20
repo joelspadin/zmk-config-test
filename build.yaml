@@ -13,6 +13,6 @@
 #
 ---
 include:
-- board: bluemicro840_v1
-  shield: reviung41
-- board: bt60_v1
+  - board: bluemicro840_v1
+    shield: reviung41
+  - board: bt60_v1
