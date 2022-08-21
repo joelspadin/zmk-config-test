@@ -15,3 +15,7 @@
 include:
   - shield: two_percent_milk
     board: bluemicro840_v1
+  - shield: a_dux_left
+    board: bluemicro840_v1
+  - shield: a_dux_right
+    board: bluemicro840_v1
