@@ -21,3 +21,5 @@ include:
     board: bluemicro840_v1
   - shield: chalice
     board: nice_nano_v2
+  - shield: contra
+    board: bluemicro840_v1
