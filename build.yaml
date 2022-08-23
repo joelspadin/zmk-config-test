@@ -46,3 +46,5 @@ include:
   - shield: clog_right
     board: nice_nano_v2
   - board: bt60_v1_hs
+  - shield: hummingbird
+    board: seeeduino_xiao_ble
