@@ -25,3 +25,6 @@ include:
     board: bluemicro840_v1
   - board: planck_rev6
   - board: s40nc
+  - !!omap
+      - shield: hummingbird
+      - board: seeeduino_xiao
