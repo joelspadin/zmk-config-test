@@ -23,3 +23,15 @@ include:
     board: nice_nano_v2
   - shield: contra
     board: bluemicro840_v1
+include:
+  - shield: two_percent_milk
+    board: bluemicro840_v1
+  - shield: a_dux_left
+    board: bluemicro840_v1
+  - shield: a_dux_right
+    board: bluemicro840_v1
+  - shield: chalice
+    board: nice_nano_v2
+  - shield: contra
+    board: bluemicro840_v1
+  - board: planck_rev6
