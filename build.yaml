@@ -37,3 +37,5 @@ include:
     board: mikoto_520
   - shield: two_percent_milk
     board: nice_nano_v2
+  - shield: knob_goblin
+    board: nice_nano_v2
