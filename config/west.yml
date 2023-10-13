@@ -1,11 +1,13 @@
 manifest:
   remotes:
+    - name: joelspadin
+      url-base: https://github.com/joelspadin
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
   projects:
     - name: zmk
-      remote: zmkfirmware
-      revision: main
+      remote: joelspadin
+      revision: gh-workflow-improvements
       import: app/west.yml
   self:
     path: config
